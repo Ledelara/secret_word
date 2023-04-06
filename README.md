@@ -11,6 +11,8 @@
 
 ![image](https://user-images.githubusercontent.com/122060742/230512029-acbc2f20-e722-4b88-b385-f99ff6e78fd1.png)
 
+Link para jogar: https://secret-word-three.vercel.app/
+
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
